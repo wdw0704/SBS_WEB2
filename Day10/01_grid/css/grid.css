@@ -117,6 +117,7 @@
 .align-end { align-content: end;}
 .align-center { align-content: center;}
 .align-between { align-content: space-between;}
+.align-around { align-content: space-around;}
 .align-evenly { align-content: space-evenly;}
 .align-stretch { align-content: stretch;}
 
